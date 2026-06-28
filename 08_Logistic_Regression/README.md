@@ -1,2 +1,2 @@
-Logistic_Regression/README
-#Assignment 8
+# Logistic_Regression
+Assignment 8
