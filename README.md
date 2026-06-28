@@ -43,4 +43,5 @@
 ---
 
 ## 📬 Contact
-[Your LinkedIn] | [Your Email]
+[www.linkedin.com/in/kharshini] 
+[kharshiniise2026@gmail.com]
