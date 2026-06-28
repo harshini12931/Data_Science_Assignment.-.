@@ -1,2 +1,2 @@
-Hypothesis_Testing_and_Confidence_Interval
-#Assignment 6
+#  Hypothesis_Testing_and_Confidence_Interval
+Assignment 6
